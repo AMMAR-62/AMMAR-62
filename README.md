@@ -69,9 +69,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/ShaikhAmmar_62" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AMMAR-62" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saif kazi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AMMAR-62" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mashaikh_b19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.10.0/icons/instagram.svg" alt="AMMAR-62" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ammar.shaikhmohammed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.10.0/icons/facebook.svg" alt="AMMAR-62" height="30" width="40" /></a>
+<a href="https://twitter.com/ShaikhAmmar_62" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="AMMAR-62" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaikh-mohammed-ammar-a1937a18a" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"alt="AMMAR-62" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mashaikh_b19/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="AMMAR-62" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ammar.shaikhmohammed/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png" alt="AMMAR-62" height="30" width="40" /></a>
 
 </p>
