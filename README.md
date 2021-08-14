@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaikh Ammar!</h1>
 
-- 🔭 I’m currently working on [Client-Project](https://github.com/DSC-VJTI/CA-Website)
-
 - 🌱 I’m currently exploring **Machine Learning** & **Virtual Reality**
 
 - 💬 Ask me about **Web and Android Dev**
