@@ -10,9 +10,6 @@
 
 <h3>⌚️ Recent Activity</h3>
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 <br>
 
@@ -67,9 +64,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/ShaikhAmmar_62" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="AMMAR-62" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shaikh-mohammed-ammar-a1937a18a" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"alt="AMMAR-62" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mashaikh_b19/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="AMMAR-62" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ammar.shaikhmohammed/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png" alt="AMMAR-62" height="30" width="40" /></a>
-
+	<a href="https://twitter.com/ShaikhAmmar_62" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/shaikhmohammedammar/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/ammar.shaikhmohammed/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/mashaikh_b19/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/__ShaikhAmmar__"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
+<img src="https://activity-graph.herokuapp.com/graph?username=AMMAR-62&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true">
