@@ -8,11 +8,6 @@
 
 <br>
 
-<h3>⌚️ Recent Activity</h3>
-
-
-<br>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <!-- C++  -->
